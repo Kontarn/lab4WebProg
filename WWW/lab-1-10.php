@@ -1,5 +1,5 @@
-<HTML>
-<BODY>
+<!-- <HTML>
+<BODY> -->
 <div style="display: inline-block;">
 <TABLE border="1">
 <?php
@@ -28,10 +28,10 @@
 ?>
 
 </TABLE>
-</div>
+<!-- </div> -->
 <div style="display: inline-block; vertical-align: top;">
   <button onclick="window.close()">Назад</button>
  </div>
-</div>
+<!-- </div>
 </BODY>
-</HTML>
+</HTML> -->

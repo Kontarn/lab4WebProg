@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
 
     </head>
-    <body>
+    <body> -->
         <div style="display: inline-block;">
         <?php
         
@@ -14,9 +14,9 @@
             echo '(2 * (' . $c . ') - (' . $d . '))/((' . $a . ') / 4 - 1) = ' . $f;
         
         ?>
-        </div>
+        <!-- </div> -->
         <div style="display: inline-block; vertical-align: top;">
         <button onclick="window.close()">Назад</button>
         </div>
-    </body>
-</html>
+    <!-- </body>
+</html> -->

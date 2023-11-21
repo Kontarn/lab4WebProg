@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
         
     </head>
     <body>
-        <div style="display: inline-block;">
+        <div style="display: inline-block;"> -->
         <?php
         
             $N = rand();
@@ -23,9 +23,9 @@
             
         
         ?>
-        </div>
+        <!-- </div> -->
         <div style="display: inline-block; vertical-align: top;">
         <button onclick="window.close()">Назад</button>
         </div>
-        </body>
-</html>
+        <!-- </body>
+</html> -->

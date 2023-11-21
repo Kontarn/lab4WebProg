@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 
 </head>
-<body>
+<body> -->
   <div style="display: inline-block;">
 <?php
   
@@ -23,5 +23,5 @@
  <div style="display: inline-block; vertical-align: top;">
   <button onclick="window.close()">Назад</button>
  </div>
- </body>
-</html>
+ <!-- </body>
+</html> -->
